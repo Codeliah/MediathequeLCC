@@ -105,6 +105,9 @@ class Livre
         return $this;
     }
 
+    /**
+     * @return Genre|notnull
+     */
     public function getGenre(): ?string
     {
         return $this->genre;
