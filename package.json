@@ -1,4 +1,10 @@
 {
+    "name": "mediatheque_lcc",
+    "description": "a library system management",
+    "version": "1.0.0",
+    "engines": {
+        "node": "14.18.1"
+    },
     "devDependencies": {
         "@symfony/stimulus-bridge": "^2.0.0",
         "@symfony/webpack-encore": "^1.0.0",
